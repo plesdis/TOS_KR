@@ -1,12 +1,12 @@
 ServiceNation=KOR
-Dictionary=NO
-UseNexonSSO=YES
-UseNexonGLM=YES
+Dictionary=YES
+UseNexonSSO=NO
+UseNexonGLM=NO
 UseHackshield=NO
 UseSteamClient=NO
 UseXigncode=NO
 UseLiveXigncode=NO
-UseNPS=YES
+UseNPS=NO
 NPSCode=201109
-UseNGS=YES
+UseNGS=NO
 SoundLanguage=korean
