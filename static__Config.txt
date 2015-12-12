@@ -1,0 +1,9 @@
+ServiceNation=KOR
+Dictionary=YES
+UseNexonSSO=YES
+UseNexonGLM=YES
+UseHackshield=NO
+UseSteamClient=NO
+UseXigncode=YES
+UseLiveXigncode=YES
+SoundLanguage=korean
